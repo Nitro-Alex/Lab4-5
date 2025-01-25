@@ -1,0 +1,9 @@
+Services
+Gas 40
+Water 100
+Electricity 82.5
+
+Residents
+Ivanov Ivan
+Petrov Petr
+Antonov Anton
